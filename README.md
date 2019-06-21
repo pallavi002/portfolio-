@@ -6,4 +6,5 @@ we have used NodeJS Express to create a server.
 And mongodb as a backend to store database..
 Frontend is created using HTML and CSS.
 
+A direct link of free host to view the website.
 https://website028.000webhostapp.com/blog/j.html
